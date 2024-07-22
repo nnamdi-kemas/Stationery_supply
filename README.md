@@ -7,17 +7,18 @@ Jim merchandise is a business outfit that supplies stationeries to various marke
 The dataset used for this analysis was gotten from the Excel sheet containing the sales records
 
 ## Tools Used
-Microsoft Excel
-Microsoft Power BI
-Power Query
+- Microsoft Excel
+- Microsoft Power BI
+- Power Query
  
 Based on the findings from the data analysis project for Jim Merchandise, here are detailed insights and strategic recommendations:
 
 # Key Findings
 ## Market Segment Analysis:
 
-Most Profitable Segment: Small businesses are the most profitable market segment.
-Highest Revenue Segment: Supplies to the government generated the most revenue.
+**Most Profitable Segment:** Small businesses are the most profitable market segment.
+**Highest Revenue Segment:** Supplies to the government generated the most revenue.
+
 State Analysis:
 
 Profitability: The business made a profit across all states.
