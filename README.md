@@ -17,6 +17,7 @@ Based on the findings from the data analysis project for Jim Merchandise, here a
 ## Market Segment Analysis:
 
 **Most Profitable Segment:** Small businesses are the most profitable market segment.
+
 ![](profit_by_segment.PNG)
 
 **Highest Revenue Segment:** Supplies to the government generated the most revenue.
@@ -24,14 +25,17 @@ Based on the findings from the data analysis project for Jim Merchandise, here a
 ## State Analysis:
 
 **Profitability:** The business made a profit across all states.
+
 ![](profit_by_state.PNG)
 
 ## Product Category Analysis:
 
 **Profitable Products:** Biro, pencils, and A4 paper were profitable.  
+
 ![](revenue_and_profit_by_product.PNG)
 
 **Loss-Making Products:** Notepads and staplers resulted in substantial losses due to high production costs.
+
 ![](manufacturing_cost_by_product.PNG)
 
 # Recommendations
