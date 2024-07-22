@@ -1,6 +1,10 @@
 # Jim Merchandise Sales Analysis
 
 ## Overview
+
+![image](https://github.com/user-attachments/assets/946ec9ca-3898-41e0-b7f8-2a7915a109d3)
+
+
 **_Jim merchandise_** is a business outfit that supplies stationeries to various market segments. The objective of this data analysis project is to identify the market segment, state, as well as product category that offers profit prospects for the business. This is geared towards streamlining the business for profit.
 
 ## Source of Data
@@ -50,6 +54,7 @@ Optimize Government Contracts:
 
 ### Profit Analysis:
 Analyze the profitability of government contracts to understand the cost structure.
+
 **Negotiation:** Negotiate better terms or adjust pricing strategies to increase the profitability of government supplies.
 
 ## State Strategy
@@ -107,4 +112,5 @@ Informed Decisions: Make informed decisions based on data insights to adapt stra
 
 - Performance Tracking: Set up a system to track the performance of implemented strategies.
 - Regular Reviews: Regularly review financial data and market conditions to adjust strategies as needed.
+
 _**By focusing on the most profitable market segments, optimizing product offerings, and ensuring cost efficiency, Jim Merchandise can enhance its profitability and streamline its business operations**_ 
